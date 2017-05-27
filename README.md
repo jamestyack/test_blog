@@ -1,5 +1,7 @@
 # README
 
+Based on https://docs.docker.com/compose/rails
+
 ## Create rails app
 
 ```
